@@ -35,10 +35,10 @@ https://softeer.ai/app
 ## 문제별 상태
 | 문제ID  | 문제 제목 | 문제 상태 | URL |
 |:------------:|:-----:|:------------:|:--:|
-| SQL-KHS-1-2310  |   올해의 자동차 상 찾기    |      문제 개발 완료        |https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310|
-| SQL-KHS-2-2310  |   모델별 평균 평점         |      문제 개발 완료        |https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310|
-| SQL-KHS-3-2310  |   모델별 평가 등급 책정    |      문제 개발 완료        |https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310|
-| SQL-KHS-4-2310  |   특정 지역에서 생산된 차량 조회    |      문제 개발 완료        |https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310|
+| SQL-KHS-1-2310  |   올해의 자동차 상 찾기    |      문제 개발 완료        |[SQL-KHS-1-2310](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310)|
+| SQL-KHS-2-2310  |   모델별 평균 평점         |      문제 개발 완료        |[SQL-KHS-1-2310](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310)|
+| SQL-KHS-3-2310  |   모델별 평가 등급 책정    |      문제 개발 완료        |[SQL-KHS-1-2310](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310)|
+| SQL-KHS-4-2310  |   특정 지역에서 생산된 차량 조회    |      문제 개발 완료        |[SQL-KHS-1-2310](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310)|
 | SQL-KHS-5-2310  |   패턴에 맞는 모델명 조회   |      문제 개발 완료        |https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310|
 | SQL-KHS-6-2310  |   차량 가격이 싼 순서대로 나열하기    |      문제 개발 완료        |https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310|
 | SQL-KHS-7-2310  |   할인 가격 구하기    |      문제 개발 완료        |https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-1-2310|
