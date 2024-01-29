@@ -43,7 +43,7 @@ https://softeer.ai/app
 | SQL-KHS-5-2310  |  MEDIUM  |   패턴에 맞는 모델명 조회               |      소프티어 업로드 완료                          |[SQL-KHS-5-2310](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-5-2310)|
 | SQL-KHS-6-2310  |  MEDIUM  |   차량 가격이 싼 순서대로 나열하기        |      소프티어 업로드 완료                |[SQL-KHS-6-2310](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-6-2310)|
 | SQL-KHS-7-2310  |  MEDIUM  |   할인 가격 구하기                        |      소프티어 업로드 완료                               |[SQL-KHS-7-2310](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-7-2310)|
-| SQL-KHS-8-2310  |  MEDIUM  |   이틀 연속 판매한 횟수 구하기             |      소프티어 업로드 완료                    |[SQL-KHS-8-2310](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-8-2310)|
+| SQL-KHS-8-2310  |  MEDIUM  |   이틀 연속 근무하는 횟수 구하기             |      소프티어 업로드 완료                    |[SQL-KHS-8-2310](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-8-2310)|
 | SQL-KHS-9-2311  |  HARD  |   부품 별 배송 목적지 찾기                  |      소프티어 업로드 완료                        |[SQL-KHS-9-2311](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-9-2311)|
 | SQL-KHS-10-2312  |  HARD  |   인기 모델의 판매량 찾기                  |      소프티어 업로드 완료                        |[SQL-KHS-10-2312](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-10-2312)|
 | SQL-KHS-11-2312  |  HARD  |   모델별 연내 판매 수 및 금액, 비율 구하기    |      소프티어 업로드 완료        |[SQL-KHS-11-2312](https://github.com/Softeer-Problems-KimHyunSeung/SQL-KHS-11-2312)|
